@@ -1,9 +1,3 @@
-import React from 'react'
-
-export const InvoicesPage = () => {
-  return (
-    <div>invoices Page</div>
-  )
-}
-
-export default InvoicesPage;
+export default function InvoicePage() {
+    return <p>Invoice Page</p>;
+  }
