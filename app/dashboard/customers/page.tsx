@@ -1,5 +1,4 @@
 import React from 'react'
-import { Customer } from '../../lib/definitions';
 
 export const CustomerPage = () => {
   return (
