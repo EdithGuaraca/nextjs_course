@@ -1,10 +1,10 @@
 import React from 'react'
 import { Customer } from '../../lib/definitions';
 
-export const page = () => {
+export const CustomerPage = () => {
   return (
     <div>Customer Page</div>
   )
 }
 
-export default page;
+export default CustomerPage;
